@@ -1,0 +1,2 @@
+module JavaClassA42 {
+}
